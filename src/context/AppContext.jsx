@@ -6,7 +6,7 @@ export function AppProvider({ children }) {
   const [state, setState] = useState({
     theme: "light",
     user: {
-      name: "Adithyan",
+      name: "Vikranth",
       role: "Student"
     }
   });

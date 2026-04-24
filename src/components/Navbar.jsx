@@ -14,7 +14,7 @@ export default function CustomNavbar() {
       <Container>
 
         <Navbar.Brand as={Link} to="/">
-          Portfolio
+          Vikranth Portfolio
         </Navbar.Brand>
 
         <Nav className="ms-auto">

@@ -4,7 +4,7 @@ export default function HeroSection() {
   return (
     <Container sx={{ textAlign: 'center', mt: 8 }}>
       <Typography variant="h3">
-  Hi, I'm Adithyan
+  Hi, I'm Vikranth
 </Typography>
 <Typography variant="h6">
   A Computer Science student passionate about Web Development

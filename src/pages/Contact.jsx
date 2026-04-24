@@ -45,10 +45,10 @@ export default function Contact() {
           </Button>
 
           <Typography variant="body2" sx={{ mt: 4 }} align="center">
-            Email: adi.mariyathody@gmail.com
+            Email: vikranthkeshav01@gmail.com
           </Typography>
           <Typography variant="body2" align="center">
-            Phone: +91 9605423421
+            Phone: +91 9059993250
           </Typography>
         </Container>
       </div>
